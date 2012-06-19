@@ -197,7 +197,7 @@ DEPENDENCIES
   heroku
   jquery-rails
   libnotify (= 0.5.9)
-  pg (= 0.12.2)
+  pg
   rails (= 3.2.5)
   rb-inotify (= 0.8.8)
   rspec-rails (= 2.10.0)
